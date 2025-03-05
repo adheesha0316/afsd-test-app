@@ -33,6 +33,7 @@ public class Calculator {
     void equal(ActionEvent event) {
 
         System.out.println("Your Result is: "+ result);
+        System.out.println("welcome to the Calculator");
     }
 
     @FXML
