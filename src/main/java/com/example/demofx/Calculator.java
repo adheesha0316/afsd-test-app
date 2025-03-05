@@ -35,6 +35,7 @@ public class Calculator {
         System.out.println("Your Result is: "+ result);
         System.out.println("welcome to the Calculator");
         System.out.println("great!");
+        System.out.println("welcome again!");
     }
 
     @FXML
